@@ -48,11 +48,27 @@ hr {
   color: #28df99;
 }
 
+.profile {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6.25rem;
+  line-height: 2;
+}
+
+.skills {
+  margin-top: 6.25rem;
+}
+
 .skill-row {
   margin: 6.25rem auto 6.25rem auto;
   width: 50%;
   text-align: left;
   line-height: 2;
+}
+
+.contact-me {
+  margin-top: 6.25rem;
 }
 
 .bottom-container {
@@ -78,6 +94,7 @@ hr {
 .developer-img {
   height: 300px;
   width: 300px;
+  margin-top: 6.25rem;
 }
 
 .code-img {
